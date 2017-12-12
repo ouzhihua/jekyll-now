@@ -15,8 +15,8 @@ This is to record some useful steps and links for getting started with github an
 3. check the [R Markdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) to help writing in markdown syntax.
 4. install github on mac.  
 5. set up github account info on Mac.  
-  ```git config --global user.name *xxx*   
-  git config --global user.email *xxx@xx.com*```    
+  ```git config --global user.name *xxx*```  
+  ```git config --global user.email *xxx@xx.com*```  
 6. work on local computer and push to github.  
 
 

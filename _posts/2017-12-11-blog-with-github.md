@@ -17,6 +17,6 @@ This is to record some useful steps and links for getting started with github an
 5. set up github account info on Mac.  
 ```git config --global user.name xxx```  
 ```git config --global user.email xxx@xx.com```  
-6. and other precedure following help on 4. 
+6. and other precedure following help on 4.  
 imagetest ![test](https://github.com/ouzhihua/ouzhihua.github.io/blob/master/images/PyMOL%20seccess!.PNG)
 

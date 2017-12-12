@@ -12,4 +12,4 @@ I am currently learning R for evolutionary and biostatistics analysis.
 
 ### Contact me
 
-[u3002458@connect.hku.hk](mailto:u3002458@connect.hku.hk)
+u3002458@connect.hku.hk
